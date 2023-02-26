@@ -1,6 +1,6 @@
 # get_router_poc
 
-A new Flutter project.
+A new Flutter project. for testing go router
 
 ## Getting Started
 
