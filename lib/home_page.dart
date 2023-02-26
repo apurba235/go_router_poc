@@ -31,7 +31,7 @@ class HomePage extends StatelessWidget {
                 onPressed: () {
                   context.go('/bagChild');
                 },
-                child: const Text('Shell Route Sample Page'),
+                child: const Text('Shell Route Sample Page ch'),
               ),
             ],
           )
