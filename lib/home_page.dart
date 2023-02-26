@@ -17,7 +17,7 @@ class HomePage extends StatelessWidget {
                 onPressed: () {
                   context.go('/pageOne/test_my_poc');
                 },
-                child: const Text('Path Parameter Page'),
+                child: const Text('Path Parameter Page test'),
               ),
               const SizedBox(width: 10),
               ElevatedButton(
